@@ -14,4 +14,6 @@ lr = [0.1, 0.01, 0.001, 0.0001]
 
 The Highest Accuracy = 92.59% is achieved at a batch size = 512, epochs = 100, lr = 0.1
 
+Decreasing the learning rate by a factor of '10' to 0.0001, decreased the accuracy.   
+
 The code is run on Google Colab
